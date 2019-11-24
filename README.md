@@ -1,2 +1,2 @@
-# pupeteer_project
-Pupeteerでの作業フォルダです
+# puppeteer_project
+Puppeteerでの作業フォルダです
